@@ -4,7 +4,7 @@ import requests
 from rich import print
 from rich.markdown import Markdown
 
-API_KEY = "1fb39aaf4bb041b10eb44da9e82datof"  # ⚠️ Replace with your own API key if needed
+API_KEY = ""  # ⚠️ Replace with your own API key if needed
 
 def display_current_weather(location):
     """Display real-time weather for a location using SheCodes Weather API"""
